@@ -28,7 +28,6 @@ function duplicarNumero(numero){
 
 function mediaTresNumeros(num1,num2,num3){
     return ((num1+num2+num3)/3)
-
 };
 
 function encontrarMaiorNumero(num1,num2){
@@ -37,9 +36,9 @@ function encontrarMaiorNumero(num1,num2){
     } else {
         return num2;
     }
-
 };
 
 function calcularQuadrado(num) {
     return num*num;
 };
+    
